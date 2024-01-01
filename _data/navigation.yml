@@ -6,11 +6,11 @@ main:
   - title: "Talks"
     url: _talks/2012-03-01-talk-1.md    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+   # url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
