@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abix's Space / Site Title"
+title                    : "Abix's Space"
 title_separator          : "-"
 name                     : &name "Ayush Bhadauria"
 description              : &description "personal description"
